@@ -1,0 +1,22 @@
+{
+  "name": "typescript_test",
+  "version": "1.0.0",
+  "description": "A small app to test typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elkaadka/typescript_test.git"
+  },
+  "author": "Adil El Kanabi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elkaadka/typescript_test/issues"
+  },
+  "homepage": "https://github.com/elkaadka/typescript_test#readme",
+  "dependencies": {
+    "typescript": "^2.2.2"
+  }
+}
